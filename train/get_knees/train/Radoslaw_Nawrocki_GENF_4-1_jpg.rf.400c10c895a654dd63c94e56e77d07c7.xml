@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Radoslaw_Nawrocki_GENF_4-1_jpg.rf.400c10c895a654dd63c94e56e77d07c7.jpg</filename>
+	<path>Radoslaw_Nawrocki_GENF_4-1_jpg.rf.400c10c895a654dd63c94e56e77d07c7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>joint-ht8A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>274</xmin>
+			<xmax>539</xmax>
+			<ymin>171</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

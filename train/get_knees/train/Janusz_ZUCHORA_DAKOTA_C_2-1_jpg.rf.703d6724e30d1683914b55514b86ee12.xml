@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Janusz_ZUCHORA_DAKOTA_C_2-1_jpg.rf.703d6724e30d1683914b55514b86ee12.jpg</filename>
+	<path>Janusz_ZUCHORA_DAKOTA_C_2-1_jpg.rf.703d6724e30d1683914b55514b86ee12.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>joint-ht8A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>99</xmin>
+			<xmax>482</xmax>
+			<ymin>203</ymin>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

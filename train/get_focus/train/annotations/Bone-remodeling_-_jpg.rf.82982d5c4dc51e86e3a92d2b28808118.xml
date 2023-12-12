@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Bone-remodeling_-_jpg.rf.82982d5c4dc51e86e3a92d2b28808118.jpg</filename>
+	<path>Bone-remodeling_-_jpg.rf.82982d5c4dc51e86e3a92d2b28808118.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bone remodeling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>217</xmax>
+			<ymin>112</ymin>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

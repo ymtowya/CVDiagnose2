@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>0023_r0_flip_jpg.rf.42f857c656f89414b3ad31728191c6de.jpg</filename>
+	<path>0023_r0_flip_jpg.rf.42f857c656f89414b3ad31728191c6de.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>joint-ht8A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>73</xmin>
+			<xmax>423</xmax>
+			<ymin>150</ymin>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

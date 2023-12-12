@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Artur_FINGERHOLC_BANduze-ocdITA_6_-_jpg.rf.c176cda72a36c07e561cd1cd0aac5327.jpg</filename>
+	<path>Artur_FINGERHOLC_BANduze-ocdITA_6_-_jpg.rf.c176cda72a36c07e561cd1cd0aac5327.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bone remodeling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>266</xmax>
+			<ymin>230</ymin>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

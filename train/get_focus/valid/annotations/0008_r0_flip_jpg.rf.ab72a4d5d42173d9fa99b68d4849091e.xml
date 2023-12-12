@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>0008_r0_flip_jpg.rf.ab72a4d5d42173d9fa99b68d4849091e.jpg</filename>
+	<path>0008_r0_flip_jpg.rf.ab72a4d5d42173d9fa99b68d4849091e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bone remodeling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>396</xmin>
+			<xmax>415</xmax>
+			<ymin>218</ymin>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bone remodeling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>231</xmin>
+			<xmax>245</xmax>
+			<ymin>354</ymin>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>
