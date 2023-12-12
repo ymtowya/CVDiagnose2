@@ -2,6 +2,7 @@ rm runs/detect
 rm runs2
 rm runs3
 
+mkdir runs/detect
 mkdir runs2
 mkdir runs3
 
